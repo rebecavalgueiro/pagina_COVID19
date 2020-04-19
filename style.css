@@ -1,0 +1,145 @@
+
+body{
+    background-color: rgb(14, 22, 128);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.content{
+    padding-top:90px;
+}
+.container{
+    background-color:lightblue;
+    margin: 0 60px;
+}
+#titulo>h1{
+    font-size: 25px;
+}
+ul {
+    margin-top: 0;
+    background-color: rgb(14, 22, 128) ;
+    position: fixed;
+    color: white;
+    text-align: center;
+    top: 0;
+    width: 100%;
+    padding: 0 60px;
+   
+  }
+
+li {
+    display: inline;
+    color: white;
+    
+}
+li>a{
+    padding: 8px;
+    text-decoration: none;
+    float: right;
+    text-align: center;
+       
+}
+
+li>a:hover{
+    color: black;
+    background-color: white;
+}
+
+.noticias{
+    margin: auto;
+    padding: 30px;
+    height: auto;
+    text-align: center;
+}
+.noticias>h1{
+    text-align: center;
+    background-color: white;
+}
+
+.news-img{
+    max-width: 90%;
+    height: auto;
+    border-radius: 10px;
+    margin: 10px auto;
+    display: block;
+    
+}
+h5{
+    font-size: 20px;
+    margin: 10px 10px;
+    display: block;
+    padding: 0 20px;
+}
+iframe{
+    border-radius: 10px;
+    margin: 10px auto;
+    width:90%;
+    height:auto; 
+    display: block;
+}
+.news{
+  margin: 5px;
+  float: left;
+  height: auto;
+  
+}
+ .news:hover{
+    border: 1px solid blue;
+ }
+
+label{
+    display: block;
+    margin:20px;
+}
+
+#fotominha{
+    border-radius: 100px;
+}
+#sobreAutor{
+    text-align: center;
+    background-color: white;
+}
+
+#sobre{
+    margin: auto;
+    padding: 30px;
+    height: auto;
+    text-align: center;
+}
+#infos{
+    width: 50%;
+    margin: 20px auto;
+        text-align: center;
+    float: initial;
+}
+
+#saibamais>h1 {
+    text-align: center;
+    background-color: white;
+}
+
+#saibamais{
+    margin: auto;
+    padding: 30px;
+    height: auto;
+    text-align: center;
+}
+#saibamais>h1{
+    text-align: center;
+    background-color: white;
+}
+#saibamais>a{
+    display: block;
+}
+#contato{
+    margin: auto;
+    padding: 30px;
+    height: auto;
+    text-align: center;
+}
+#contato>h1{
+    text-align: center;
+    background-color: white;
+}
+#enviarcontato{
+    margin-top:10px
+
+}
